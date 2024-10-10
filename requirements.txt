@@ -1,5 +1,4 @@
-opencv-python
 streamlit
-pytesseract
+opencv-python-headless
 numpy
-OpenCV-contrib-python
+Pillow
